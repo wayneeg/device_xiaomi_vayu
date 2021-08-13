@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_vayu.mk
+    $(LOCAL_DIR)/legion_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_vayu-user \
-    ssos_vayu-userdebug \
-    ssos_vayu-eng
+    legion_vayu-user \
+    legion_vayu-userdebug \
+    legion_vayu-eng
